@@ -61,10 +61,6 @@ bot.on('message', function (user, userID, channelID, message, evt){
                     message: 'https://twitter.com/PicardTips/status/'+tweet[tweetChoice].id_str
                 })
             })
-            
-
-            
-            
         }
     }
 });
